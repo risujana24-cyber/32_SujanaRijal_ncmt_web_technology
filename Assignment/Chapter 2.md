@@ -1,6 +1,6 @@
  CHAPTER-2
  
- WEBSITE_DEVELOPMENT_PROCESS
+ WEBSITE DEVELOPMENT PROCESS
 
 Name: Sujana Rijal
 
@@ -12,7 +12,7 @@ Roll: 32
 Group-"A"
 
 
-Qno_1
+Qno 1
 
 A sitemap is a file where a website owner provides information about the web pages, videos, and other files on their site.
 It helps search engines vrawl the site more effecticvely.
