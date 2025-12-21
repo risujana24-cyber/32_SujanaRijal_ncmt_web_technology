@@ -6,9 +6,12 @@ Roll: 32
 
 
 
+
 Group-"A"
 
+
 Qno 1
+
 A sitemap is a file where a website owner provides information about the web pages, videos, and other files on their site.
 It helps search engines vrawl the site more effecticvely.
 
