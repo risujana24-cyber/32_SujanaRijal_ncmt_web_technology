@@ -91,7 +91,8 @@ The KISS Violation: Simplicity demands immediate understanding. The design force
 menu, rather than making the menu instantly accessible and self-explanatory.
 
 The desire for a clean, minimalist look often drives designers to hide elements. This approach ignores the KISS principle's focus on functionality. 
-The Problem: The design sacrifices clear, robust functionality for a appearance.While this approach is common and sometimes necessary on mobile screens
+The Problem: The design sacrifices clear, robust functionality for a appearance.While this approach is common and sometimes necessary on mobile screens.
+
 The KISS Violation: The simple solution would be to display the navigation links permanently. The complex solution involves a hidden menu that requires 
 an extra interaction (a click) to access, adding a barrier between the user and their goal. where space is limited, it is counterproductive on a desktop 
 where ample space is available.
@@ -101,6 +102,7 @@ An "affordance" is a design characteristics that suggests how an object should b
 screen. 
 The Problem: The small icon does not clearly scream "click here for the main navigation." Users who don't immediately recognize the icon's modern convention
 might assume the site has no navigation or is broken.
+
 The KISS Violation: Simplicity mandates that interactive elements should be discoverable. The design made the navigation difficult to discover, leading to immediate user frustration and site abandonment (a bounce rate within 10 seconds is a clear indicator of this failure). 
 
 Q no 10
@@ -109,26 +111,40 @@ The URL structure www.shop.com/prod?id=55&cat=9 is considered a dynamic URL beca
 This structure is problematic for several reasons: 
 
 Why this is bad for Users
+
 Poor Readability: A user cannot tell what the page is about by looking at the URL. A string of numbers like id=55 provides no context or trust.
+
 Lower Trust & Click-Through Rate (CTR): Users are less likely to click on complex, "ugly" URLs in search results, emails, or social media because they look untrustworthy or spammy.
+
 Difficult to Share: Long, parameterized URLs are harder to remember, type manually, or copy-paste without errors.
 
 Why this is bad for Search Engines (SEO)
 Wasted Crawl Budget: Parameters can generate an infinite number of URL variations for the same content (e.g., if different parameters like session_id are added), causing bots to waste resources crawling redundant pages.
+
 Duplicate Content Issues: Search engines may treat different parameter combinations (e.g., ?id=55&cat=9 vs. ?cat=9&id=55) as separate pages with identical content, potentially diluting ranking authority.
+
 Missing Keyword Relevance: Search engines use words in the URL to help understand a page's topic. This dynamic structure lacks descriptive keywords that could improve search visibility.
+
 Proposed Structure Using Page Slugs
 A slug is the human-readable, hyphen-separated part of a URL that describes the content of a specific page. Instead of using IDs and categories, you should follow a logical hierarchy that mirrors your site's structure. 
 
 Proposed URL: www.shop.com
+
 Example:
 Old: www.shop.com/prod?id=55&cat=9
+
 Better: www.shop.com 
+
 Best Practices for Your New Structure:
+
 Use Hyphens: Separate words with hyphens  rather than underscores or spaces, as search engines read them as word separators.
+
 Lowercase Only: Always use lowercase letters to avoid potential case-sensitivity issues on some servers.
+
 Include Keywords: Place your primary target keyword in the slug to improve relevance and CTR.
+
 Be Concise: Aim for short slugs (3–5 words) that are easy for both humans and bots to process.
+
 Redirect Old URLs: If you change your current structure, use 301 redirects to point the old parameter-based URLs to the new slugs to preserve existing SEO value. 
 
 
