@@ -2,10 +2,6 @@
  
  WEBSITE DEVELOPMENT PROCESS
 
-Name: Sujana Rijal
-
-Roll: 32
-
 
 
 
