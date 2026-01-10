@@ -15,19 +15,17 @@ consistent results.
 
  2.
 
-    The rule of thirds in layout design is a composition technique that divides a canvas into a 3x3 grid using two horizontal and two vertical lines,
-    creating nine equal boxes and four intersection points.Placing key elements—such as images, text, or buttons—along these lines or at intersections
-    draws the eye, creates balance, and improves visual engagement.The principle suggests that placing key elements along these lines or at their four 
-    intersections (often called "sweet spots" or "power points") creates a more balanced, engaging, and dynamic layout than simply centering content. 
+   The Rule of Thirds is a compositional technique used to create balanced, high-converting layouts. It involves overlaying a 3x3 grid (two horizontal lines
+   and two vertical lines) over a webpage to guide the placement of elements.By placing critical elements like headlines, call-to-action buttons, or key imagery      along these lines or at their intersections, designers can create a more balanced, dynamic, and visually engaging composition that aligns with how the human       eye naturally scans content—typically in an F-shaped pattern. 
 
-3.
+4.
 
   You should limit the number of font families used on a website primarily for two key reasons: to ensure optimal performance and to maintain a
   professional design aesthetic. By using fewer fonts, the browser can load, parse, and display text more quickly.Mixing too many different typefaces can
    make the content difficult to read and navigate, potentially frustrating users and negatively impacting accessibility for people with reading disabilities.
    Limiting the number of font families on a website is a critical design standard in 2026, primarily to balance performance, usability, and brand integrity.
 
-4.
+5.
 
 Responsive Web Design (RWD) is a web development approach that ensures websites automatically adapt, resize, and render optimally across all
 devices and screen sizes—from mobile phones to desktop monitors.The goal is for a website to retain its optimal usability and appearance regardless of the
