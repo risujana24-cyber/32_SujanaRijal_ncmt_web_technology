@@ -3,15 +3,14 @@ WEBSITE DESIGN PRINCIPLES
 Group "A"
 
 1.
+                                       
+ The differences between legibility and readability are as follows;                                                                
+i. Legibillity is the set of conditions or criteria that must be met under a program, or a test) whereas readability is the degree to which a measurement tool produces consistent and stable result at the same for inclusion in a group or activity (e.g., a study,conditions.
 
-Legibillity                                                       Readability
-                                                                  
-The set of conditions or criteria that must be met                The degree to which a measurement tool produces consistent and stable results under 
-a program, or a test).                                            the same for inclusion in a group or activity (e.g., a study,conditions.
-                                                                  
+ii. Legibility is a permanent quality of the font choice, meaning a poorly designed font remains difficult to see regardless of how you place it whereas readability is a result of the designer's styling, meaning even a perfectly clear font can be made "unreadable" if the lines are too long or the text is too small for a mobile screen.
 
-A valid system is generally reliable; it produces accurate,        A reliable system is not always valid; it can consistently produce the same incorrect result.
-consistent results.
+                                           
+               
 
  2.
 
