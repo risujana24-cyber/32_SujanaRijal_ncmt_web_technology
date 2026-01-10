@@ -4,7 +4,7 @@ Group "A"
 
 1.
 
-  Legibillity                                                     Readability
+Legibillity                                                       Readability
                                                                   
 The set of conditions or criteria that must be met                The degree to which a measurement tool produces consistent and stable results under 
 a program, or a test).                                            the same for inclusion in a group or activity (e.g., a study,conditions.
