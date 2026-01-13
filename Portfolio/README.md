@@ -1,1 +1,0 @@
-[Live Demo](https>//risujana24-cyber.github.io/32_SujanaRijal_ncmt_web_technology/Portfolio-website/index.html)
